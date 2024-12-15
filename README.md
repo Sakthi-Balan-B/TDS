@@ -1,4 +1,4 @@
-# Automated Data Analysis and Visualization Leveraging GPT-4o-Mini for Advanced Insights
+# Automated Data Analysis and Visualization Leveraging LLM for Advanced Insights
 
 ## Project Overview
 This project focuses on the development of an advanced Python-based system engineered to automate data analysis, visualization, and insight narration from any given dataset. By harnessing the capabilities of a Large Language Model (LLM) in conjunction with state-of-the-art data processing and visualization techniques, the system produces comprehensive Markdown reports enhanced with high-quality visual representations. Designed for versatility, it ensures compatibility with a wide range of CSV datasets, catering to diverse analytical requirements.
