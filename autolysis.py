@@ -24,6 +24,7 @@ from pathlib import Path
 import asyncio
 import scipy.stats as stats
 
+REGEX = r'(?m)^# /// (?P<type>[a-zA-Z0-9-]+)$\s(?P<content>(^#(| .*)$\s)+)^# ///$'
 # Constants
 API_URL = "https://aiproxy.sanand.workers.dev/openai/v1/chat/completions"
 
